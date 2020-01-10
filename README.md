@@ -17,7 +17,7 @@
 <table>
    <tr>
       <td>
-         <a href="https://github.com/Woogie924"><img width="160px" src="https://user-images.githubusercontent.com/522079/42234532-dfa61084-7ec2-11e8-96df-23aa48c6d450.jpg"><br>
+         <a href="https://github.com/Woogie924"><img width="160px" src="https://github.com/Woogie924/TIL/blob/master/KakaoTalk_20200109_090135135.jpg"><br>
          SungUk Hong</a><br>
          <i>SSAFY 교육생</i>
       </td>
