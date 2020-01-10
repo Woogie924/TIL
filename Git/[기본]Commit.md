@@ -16,11 +16,11 @@ $ git commit -m "first commit"
 $ git commit
 ```
 <br>
-2. 'i' 입력
-3. 커밋메시지 입력
-4. ESC 입력
-5. ':' 세미콜론 입력
-6. wq입력
+2. 'i' 입력<br>
+3. 커밋메시지 입력<br>
+4. ESC 입력<br>
+5. ':' 세미콜론 입력<br>
+6. wq입력<br>
 
 #### 커밋하기 - 인라인
 ```bash
