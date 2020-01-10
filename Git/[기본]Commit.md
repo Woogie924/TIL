@@ -1,5 +1,5 @@
 
-- - -
+
 #### 파일을 관리 대상 파일(Tracked)상태로 만들기 <br>
 ###### index영역에 파일 보내기<br>
 ```bash
@@ -10,8 +10,6 @@ $ git add <파일이름>
 $ git commit -m "first commit"
 ```
 <br>
-
-- - -
 
 <br>
 #### 커밋하기<br>
