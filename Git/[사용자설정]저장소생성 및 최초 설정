@@ -1,0 +1,18 @@
+#### 사용자 설정 - 저장소 생성 및 최초 설정
+1. **(git bash)**
+```bash
+$ git config --global user.name "사용자이름"
+$ git config --global user.email "메일주소"
+```
+2. **(git bash) 버젼 관리할 (로컬)저장소 만들기 - 폴더 지정하기**
+```bash
+$ cd c:
+//현재 경로를 C드라이브로!!
+$ mkdir ~/test
+//현재 위치에서 test 폴더 만들어!
+```
+
+3. **(git bash) 버젼 관리할 (로컬)저장소 만들기 - git 저장소 만들기**
+```bash
+$ git init
+```
