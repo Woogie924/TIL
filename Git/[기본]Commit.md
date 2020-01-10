@@ -1,5 +1,5 @@
 
-#### 파일을 관리 대상 파일(Tracked)상태로 만들기 - <br>
+#### 파일을 관리 대상 파일(Tracked)상태로 만들기 <br>
 ###### index영역에 파일 보내기<br>
 ```bash
 $ git add <파일이름>
@@ -13,7 +13,7 @@ $ git commit -m "first commit"
 - - -
 
 <br>
-#### 커밋하기
+#### 커밋하기<br>
 1. 명령어 입력<br>
 ```bash
 $ git commit
