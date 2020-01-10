@@ -14,11 +14,11 @@ $ git commit -m "first commit"
 
 <br>
 #### 커밋하기
-1. 명령어 입력
+1. 명령어 입력<br>
 ```bash
 $ git commit
 ```
-
+<br>
 2. 'i' 입력
 3. 커밋메시지 입력
 4. ESC 입력
