@@ -9,9 +9,7 @@ $ git add <파일이름>
 ```bash
 $ git commit -m "first commit"
 ```
-<br>
-
-<br>
+- - -
 #### 커밋하기<br>
 1. 명령어 입력<br>
 ```bash
