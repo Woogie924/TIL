@@ -17,6 +17,7 @@
   - [BOJ_1916_최소비용구하기](https://github.com/Woogie924/TIL/blob/master/Algo/BOJ_1916_%EC%B5%9C%EC%86%8C%EB%B9%84%EC%9A%A9%EA%B5%AC%ED%95%98%EA%B8%B0.md)
   - [BOJ_11052_카드구매하기](https://github.com/Woogie924/TIL/blob/master/Algo/BOJ_11052_%EC%B9%B4%EB%93%9C%EA%B5%AC%EB%A7%A4%ED%95%98%EA%B8%B0.md)
   - [BOJ_10844_쉬운계단수](https://github.com/Woogie924/TIL/blob/master/Algo/BOJ_10844_%EC%89%AC%EC%9A%B4%EA%B3%84%EB%8B%A8%EC%88%98.md)
+  - [BOJ_1600_말이되고픈원숭이](https://github.com/Woogie924/TIL/blob/master/Algo/BOJ_1600_%EB%A7%90%EC%9D%B4%EB%90%98%EA%B3%A0%ED%94%88%EC%9B%90%EC%88%AD%EC%9D%B4.md)
 ## It's me!!  😜
 
 <table>
