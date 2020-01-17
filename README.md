@@ -1,6 +1,11 @@
 
 # 🐥 Today I Learned(TIL)
-- - -
+<img src="https://img.shields.io/badge/진행중-Responsive WebApp-blue">
+<img src="https://img.shields.io/badge/Tech-Vue.js-green">
+<img src="https://img.shields.io/badge/Tech-Spring Framework-green">
+<img src="https://img.shields.io/badge/Tech-Spring boot-green">
+<img src="https://img.shields.io/badge/DataBase-Firebase-green">
+<br>
 ## 🤲 Git<br>
 - Test
   - [git 최초 테스트](https://github.com/Woogie924/TIL/blob/master/Git/%5BTest%5D%EC%B5%9C%EC%B4%88%ED%85%8C%EC%8A%A4%ED%8A%B8.md)
