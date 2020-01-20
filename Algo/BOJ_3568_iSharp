@@ -1,0 +1,56 @@
+# [BOJ_3568]iSharp
+- - -
+[iSharp 링크](https://www.acmicpc.net/problem/3568)
+
+```java
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+
+public class Main {
+	static String head="";
+	public static void main(String[] args) throws Exception{
+		// TODO Auto-generated method stub
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		
+		String str= br.readLine();
+		String [] input = str.split("");
+		
+		for(int i=0;i<input.length;i++) {
+			if(input[i].equals(" ")) {
+				str = str.substring(i+1);
+				break;
+			}else {
+				head+=input[i];
+				input[i]=" ";
+			}
+		}
+		
+		String [] arr = str.trim().replace(",", ";").split(";");
+		for(int i=0;i<arr.length;i++) {
+			String temp=arr[i].trim();
+			String tempHead="";
+			String value="";
+			for(int j=0;j<temp.length();j++) {
+				char ch = temp.substring(j, j+1).charAt(0);
+				if( !((ch >='a' && ch <='z') || (ch >='A' && ch<='Z')) ) {
+					//알파벳이 아니면
+					tempHead = ch + tempHead;
+				}else {
+					value += ch;
+				}
+				
+				
+			}
+			System.out.println(head+tempHead.replace("][", "[]")+" "+value+";");
+		}
+		//a: 49
+		//z: 74
+		//A: 17
+		//Z: 42
+	}
+	public static String reverseString(String s) {
+		return (new StringBuffer(s).reverse().toString());
+	}
+
+}
+```
