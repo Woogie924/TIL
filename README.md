@@ -1,12 +1,13 @@
 
 # 🐥 Today I Learned(TIL)
+노션으로 이관함.
+
 <img src="https://img.shields.io/badge/진행중-Responsive WebApp-blue">
 <img src="https://img.shields.io/badge/Tech-Vue.js-green">
 <img src="https://img.shields.io/badge/Tech-Spring Framework-green">
 <img src="https://img.shields.io/badge/Tech-Spring boot-green">
 <img src="https://img.shields.io/badge/DataBase-Firebase-green">
 <br>
-노션으로 이관함.
 - - - 
 ## 🤲 Git<br>
 - Test
