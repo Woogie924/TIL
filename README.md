@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/Tech-Spring boot-green">
 <img src="https://img.shields.io/badge/DataBase-Firebase-green">
 <br>
-
+노션으로 이관함.
 - - - 
 ## 🤲 Git<br>
 - Test
